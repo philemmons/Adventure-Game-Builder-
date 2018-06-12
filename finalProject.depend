@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1353573908 source:c:\users\tom\codeblocks\finalproject\main.cpp
+	"Room.h"
+	<iostream>
+
+1353568068 source:c:\users\tom\codeblocks\finalproject\room.cpp
+	"Room.h"
+
+1353565057 c:\users\tom\codeblocks\finalproject\room.h
+	<string>
+	<ciso646>
+	<vector>
+	<iostream>
+
+1353565159 source:c:\users\tom\codeblocks\finalproject\demo.cpp
+	"Room.h"
+	<iostream>
+
+1353568068 source:c:\users\administrator.win7-32bit\documents\csis10c\finalproject\finalprojectsetup\room.cpp
+	"Room.h"
+
+1353565057 c:\users\administrator.win7-32bit\documents\csis10c\finalproject\finalprojectsetup\room.h
+	<string>
+	<ciso646>
+	<vector>
+	<iostream>
+
+1353831720 source:c:\users\administrator.win7-32bit\documents\csis10c\finalproject\finalproject\main.cpp
+	"Room.h"
+	<iostream>
+
+1353565057 c:\users\administrator.win7-32bit\documents\csis10c\finalproject\finalproject\room.h
+	<string>
+	<ciso646>
+	<vector>
+	<iostream>
+
+1353568068 source:c:\users\administrator.win7-32bit\documents\csis10c\finalproject\finalproject\room.cpp
+	"Room.h"
+
